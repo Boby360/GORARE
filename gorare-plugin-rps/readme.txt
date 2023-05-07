@@ -1,0 +1,1 @@
+RockPaperScissors Plugin for GORARE by Artkayek v0.2
