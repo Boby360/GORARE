@@ -1,5 +1,5 @@
 # GORARE
-Global Operations Remote Admin RElay - GORARE
+Global Operations Remote Admin RElay - GORARE (Linux Only)
 
 This is the core server plugin system for the game Global Operations.
 To talk about the game and development, join us!
