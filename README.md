@@ -1,5 +1,5 @@
 # GORARE
-Globalops Remote Admin RElay - GORARE v0.4b By Artkayek
+Globalops Remote Admin RElay - GORARE
 
 Features:
 ----------
