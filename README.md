@@ -16,6 +16,7 @@ How to run:
 
 Credits:
 ----------
+Artkayek ofcourse for all of the prior development
 Based on serkoon's GOSSIP idea.
 Thanks to Boby for helping with setting up VMWare server for tests.
 
